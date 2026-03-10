@@ -1,0 +1,501 @@
+OrderID,Customer,City,Category,Product,Quantity,Price,Sales,Date
+1,Customer_18,Karachi,Electronics,Phone,3,145,435,2022-08-17
+2,Customer_4,Karachi,Beauty,Perfume,5,236,1180,2022-02-02
+3,Customer_72,Lahore,Clothing,Jeans,5,328,1640,2022-01-28
+4,Customer_36,Karachi,Beauty,Hair Dryer,2,249,498,2023-08-27
+5,Customer_28,Islamabad,Clothing,Shoes,3,162,486,2022-06-09
+6,Customer_45,Peshawar,Electronics,Phone,4,69,276,2023-01-03
+7,Customer_49,Karachi,Home,Mixer,4,294,1176,2022-05-08
+8,Customer_74,Lahore,Beauty,Lipstick,5,473,2365,2023-01-06
+9,Customer_11,Lahore,Electronics,Phone,2,415,830,2022-10-24
+10,Customer_47,Lahore,Electronics,Tablet,3,252,756,2023-10-13
+11,Customer_90,Karachi,Home,Chair,2,363,726,2022-10-01
+12,Customer_21,Faisalabad,Beauty,Face Wash,5,393,1965,2022-09-08
+13,Customer_42,Karachi,Sports,Tennis Racket,5,132,660,2023-12-03
+14,Customer_9,Lahore,Clothing,Shirt,3,225,675,2022-10-02
+15,Customer_51,Faisalabad,Beauty,Lipstick,2,355,710,2023-05-27
+16,Customer_69,Islamabad,Clothing,Jacket,2,146,292,2023-07-29
+17,Customer_29,Lahore,Beauty,Hair Dryer,5,224,1120,2023-01-06
+18,Customer_15,Lahore,Beauty,Hair Dryer,1,406,406,2022-02-18
+19,Customer_49,Peshawar,Clothing,Shoes,5,52,260,2023-01-30
+20,Customer_88,Karachi,Sports,Tennis Racket,5,460,2300,2022-01-12
+21,Customer_56,Lahore,Beauty,Lipstick,3,77,231,2022-10-28
+22,Customer_65,Karachi,Sports,Football,3,276,828,2022-07-02
+23,Customer_70,Peshawar,Home,Fan,2,211,422,2022-06-15
+24,Customer_47,Islamabad,Electronics,Headphones,4,29,116,2022-04-25
+25,Customer_11,Karachi,Clothing,Shirt,2,469,938,2023-08-04
+26,Customer_17,Faisalabad,Sports,Football,5,412,2060,2022-05-09
+27,Customer_55,Lahore,Beauty,Face Wash,3,290,870,2023-09-14
+28,Customer_84,Islamabad,Beauty,Face Wash,3,224,672,2023-11-19
+29,Customer_9,Islamabad,Sports,Gym Gloves,1,146,146,2022-08-19
+30,Customer_10,Karachi,Electronics,Laptop,5,132,660,2022-01-08
+31,Customer_10,Peshawar,Clothing,Shirt,1,460,460,2022-12-05
+32,Customer_17,Peshawar,Clothing,Jacket,4,129,516,2023-07-07
+33,Customer_53,Lahore,Beauty,Hair Dryer,2,421,842,2023-04-30
+34,Customer_53,Faisalabad,Electronics,Phone,4,201,804,2023-03-10
+35,Customer_14,Lahore,Electronics,Phone,1,226,226,2022-12-14
+36,Customer_55,Lahore,Clothing,Jeans,5,249,1245,2022-05-24
+37,Customer_57,Peshawar,Home,Lamp,2,467,934,2022-03-19
+38,Customer_12,Lahore,Electronics,Phone,5,448,2240,2022-01-16
+39,Customer_52,Karachi,Clothing,Shoes,4,266,1064,2022-08-07
+40,Customer_59,Islamabad,Clothing,Shoes,1,219,219,2022-09-29
+41,Customer_28,Karachi,Sports,Gym Gloves,2,117,234,2022-10-31
+42,Customer_75,Faisalabad,Beauty,Perfume,3,49,147,2022-02-21
+43,Customer_24,Karachi,Beauty,Face Wash,1,280,280,2022-03-24
+44,Customer_73,Lahore,Beauty,Perfume,2,226,452,2022-05-03
+45,Customer_85,Peshawar,Beauty,Perfume,5,61,305,2023-03-06
+46,Customer_92,Islamabad,Beauty,Lipstick,3,124,372,2023-11-17
+47,Customer_83,Islamabad,Clothing,Jacket,4,87,348,2023-11-19
+48,Customer_80,Peshawar,Sports,Tennis Racket,1,24,24,2023-04-15
+49,Customer_34,Lahore,Electronics,Phone,5,129,645,2023-06-03
+50,Customer_21,Faisalabad,Home,Mixer,2,209,418,2022-10-19
+51,Customer_68,Karachi,Beauty,Lipstick,5,433,2165,2023-11-01
+52,Customer_34,Karachi,Beauty,Lipstick,1,500,500,2022-05-18
+53,Customer_27,Islamabad,Electronics,Laptop,3,164,492,2023-09-12
+54,Customer_7,Karachi,Clothing,Jacket,5,270,1350,2022-09-15
+55,Customer_99,Lahore,Sports,Tennis Racket,1,21,21,2022-12-08
+56,Customer_55,Peshawar,Home,Fan,4,302,1208,2023-12-24
+57,Customer_20,Peshawar,Electronics,Phone,1,472,472,2023-12-09
+58,Customer_56,Lahore,Electronics,Headphones,5,302,1510,2022-06-01
+59,Customer_46,Lahore,Electronics,Headphones,3,480,1440,2022-02-10
+60,Customer_53,Peshawar,Clothing,Shirt,3,419,1257,2023-07-28
+61,Customer_53,Karachi,Clothing,Jeans,2,429,858,2022-07-01
+62,Customer_95,Lahore,Clothing,Jacket,4,430,1720,2023-11-17
+63,Customer_61,Lahore,Home,Fan,1,215,215,2022-02-09
+64,Customer_29,Karachi,Clothing,Shoes,3,176,528,2022-08-22
+65,Customer_99,Islamabad,Clothing,Shoes,3,162,486,2022-03-13
+66,Customer_15,Islamabad,Home,Lamp,5,189,945,2022-01-29
+67,Customer_56,Islamabad,Clothing,Jacket,1,75,75,2023-09-03
+68,Customer_50,Peshawar,Home,Lamp,5,281,1405,2022-04-29
+69,Customer_1,Peshawar,Clothing,Jacket,1,382,382,2023-03-23
+70,Customer_86,Islamabad,Beauty,Face Wash,3,240,720,2022-03-13
+71,Customer_65,Islamabad,Beauty,Lipstick,1,388,388,2022-11-04
+72,Customer_71,Lahore,Sports,Tennis Racket,4,376,1504,2022-10-30
+73,Customer_79,Peshawar,Clothing,Shoes,4,366,1464,2022-06-28
+74,Customer_39,Islamabad,Home,Lamp,5,446,2230,2022-01-01
+75,Customer_42,Faisalabad,Clothing,Shoes,5,330,1650,2023-11-02
+76,Customer_95,Lahore,Sports,Gym Gloves,2,281,562,2023-04-30
+77,Customer_80,Islamabad,Electronics,Headphones,5,359,1795,2023-10-11
+78,Customer_19,Karachi,Electronics,Laptop,3,135,405,2022-07-23
+79,Customer_59,Faisalabad,Electronics,Laptop,4,332,1328,2022-03-16
+80,Customer_32,Lahore,Beauty,Face Wash,4,273,1092,2023-02-14
+81,Customer_90,Peshawar,Electronics,Phone,4,132,528,2022-06-30
+82,Customer_59,Lahore,Sports,Football,5,147,735,2022-05-05
+83,Customer_55,Peshawar,Sports,Tennis Racket,4,333,1332,2023-06-01
+84,Customer_97,Lahore,Sports,Cricket Bat,4,250,1000,2022-09-23
+85,Customer_10,Islamabad,Home,Lamp,2,160,320,2023-03-27
+86,Customer_11,Lahore,Clothing,Jacket,3,183,549,2023-07-08
+87,Customer_91,Lahore,Clothing,Jeans,4,375,1500,2022-06-06
+88,Customer_60,Faisalabad,Electronics,Tablet,4,189,756,2023-07-10
+89,Customer_90,Karachi,Electronics,Laptop,4,219,876,2023-08-22
+90,Customer_39,Faisalabad,Beauty,Hair Dryer,4,23,92,2022-12-27
+91,Customer_56,Faisalabad,Sports,Cricket Bat,4,132,528,2022-10-07
+92,Customer_52,Lahore,Electronics,Tablet,3,362,1086,2023-11-27
+93,Customer_51,Peshawar,Sports,Cricket Bat,5,293,1465,2022-01-28
+94,Customer_18,Faisalabad,Beauty,Perfume,1,349,349,2023-03-15
+95,Customer_28,Faisalabad,Clothing,Shirt,3,214,642,2022-12-02
+96,Customer_33,Karachi,Home,Chair,4,162,648,2023-03-08
+97,Customer_29,Karachi,Sports,Football,5,46,230,2022-12-25
+98,Customer_80,Lahore,Electronics,Phone,2,122,244,2022-01-21
+99,Customer_73,Lahore,Clothing,Jeans,4,362,1448,2022-04-28
+100,Customer_78,Karachi,Sports,Tennis Racket,3,105,315,2023-09-13
+101,Customer_40,Peshawar,Clothing,Jacket,1,316,316,2022-01-27
+102,Customer_89,Lahore,Sports,Gym Gloves,2,58,116,2023-08-30
+103,Customer_73,Karachi,Electronics,Headphones,5,432,2160,2022-05-04
+104,Customer_83,Islamabad,Home,Lamp,3,55,165,2023-06-03
+105,Customer_47,Faisalabad,Electronics,Tablet,4,74,296,2023-03-20
+106,Customer_84,Islamabad,Clothing,Shoes,2,395,790,2023-06-19
+107,Customer_35,Islamabad,Beauty,Hair Dryer,4,243,972,2023-08-30
+108,Customer_32,Faisalabad,Clothing,Shirt,3,471,1413,2023-04-07
+109,Customer_42,Lahore,Beauty,Hair Dryer,3,34,102,2023-05-22
+110,Customer_44,Islamabad,Sports,Cricket Bat,3,428,1284,2022-09-22
+111,Customer_25,Karachi,Beauty,Lipstick,5,25,125,2023-06-14
+112,Customer_89,Faisalabad,Clothing,Shoes,4,304,1216,2022-09-04
+113,Customer_29,Faisalabad,Sports,Gym Gloves,1,67,67,2022-10-29
+114,Customer_71,Peshawar,Clothing,Jacket,5,208,1040,2023-04-30
+115,Customer_90,Faisalabad,Home,Lamp,5,189,945,2022-12-27
+116,Customer_93,Lahore,Home,Chair,3,138,414,2022-05-04
+117,Customer_24,Lahore,Home,Mixer,5,410,2050,2023-12-08
+118,Customer_98,Peshawar,Clothing,Shoes,3,390,1170,2023-08-27
+119,Customer_38,Lahore,Beauty,Lipstick,1,446,446,2022-07-18
+120,Customer_69,Lahore,Home,Fan,3,27,81,2023-12-27
+121,Customer_90,Lahore,Home,Mixer,1,303,303,2022-10-27
+122,Customer_61,Faisalabad,Sports,Football,1,313,313,2022-10-19
+123,Customer_62,Karachi,Sports,Tennis Racket,2,46,92,2022-09-16
+124,Customer_81,Karachi,Electronics,Tablet,4,57,228,2023-08-14
+125,Customer_32,Karachi,Clothing,Jeans,5,175,875,2022-03-29
+126,Customer_29,Peshawar,Beauty,Hair Dryer,5,325,1625,2023-09-26
+127,Customer_55,Islamabad,Sports,Gym Gloves,4,172,688,2023-08-26
+128,Customer_98,Lahore,Beauty,Perfume,5,398,1990,2022-04-12
+129,Customer_23,Peshawar,Clothing,Jacket,1,100,100,2022-09-03
+130,Customer_89,Peshawar,Electronics,Laptop,1,229,229,2023-04-07
+131,Customer_91,Islamabad,Sports,Tennis Racket,1,138,138,2022-10-23
+132,Customer_81,Peshawar,Sports,Football,2,493,986,2022-09-28
+133,Customer_83,Lahore,Clothing,Shoes,1,298,298,2022-08-19
+134,Customer_40,Peshawar,Home,Fan,1,50,50,2022-06-19
+135,Customer_89,Islamabad,Beauty,Lipstick,4,83,332,2023-04-25
+136,Customer_57,Karachi,Sports,Tennis Racket,5,296,1480,2023-05-21
+137,Customer_78,Islamabad,Beauty,Perfume,4,396,1584,2022-11-27
+138,Customer_76,Karachi,Electronics,Phone,2,365,730,2023-08-13
+139,Customer_84,Faisalabad,Home,Mixer,2,260,520,2023-06-16
+140,Customer_63,Karachi,Home,Fan,5,243,1215,2023-10-13
+141,Customer_86,Karachi,Sports,Tennis Racket,4,190,760,2022-11-25
+142,Customer_37,Faisalabad,Clothing,Jacket,4,375,1500,2023-05-23
+143,Customer_33,Islamabad,Beauty,Perfume,4,65,260,2022-11-19
+144,Customer_85,Peshawar,Electronics,Tablet,5,442,2210,2022-01-02
+145,Customer_47,Peshawar,Sports,Gym Gloves,1,116,116,2023-06-15
+146,Customer_71,Lahore,Sports,Gym Gloves,1,124,124,2022-10-01
+147,Customer_81,Peshawar,Home,Lamp,4,82,328,2022-01-30
+148,Customer_71,Faisalabad,Clothing,Jeans,3,302,906,2022-01-15
+149,Customer_83,Lahore,Electronics,Laptop,1,256,256,2022-05-01
+150,Customer_54,Faisalabad,Sports,Tennis Racket,5,381,1905,2022-10-07
+151,Customer_50,Lahore,Sports,Cricket Bat,4,302,1208,2022-05-29
+152,Customer_44,Peshawar,Beauty,Face Wash,1,161,161,2023-03-01
+153,Customer_76,Peshawar,Home,Mixer,3,391,1173,2022-11-02
+154,Customer_45,Islamabad,Sports,Cricket Bat,4,295,1180,2023-05-11
+155,Customer_25,Lahore,Beauty,Hair Dryer,4,497,1988,2022-11-26
+156,Customer_6,Islamabad,Beauty,Hair Dryer,2,458,916,2023-02-25
+157,Customer_20,Faisalabad,Sports,Gym Gloves,4,359,1436,2023-10-30
+158,Customer_13,Faisalabad,Electronics,Laptop,5,322,1610,2022-12-06
+159,Customer_53,Lahore,Electronics,Tablet,1,389,389,2022-05-28
+160,Customer_89,Faisalabad,Electronics,Tablet,3,193,579,2023-10-01
+161,Customer_81,Faisalabad,Electronics,Headphones,5,214,1070,2022-11-21
+162,Customer_81,Islamabad,Beauty,Perfume,5,55,275,2022-08-29
+163,Customer_91,Karachi,Clothing,Shirt,4,70,280,2023-10-11
+164,Customer_6,Islamabad,Sports,Cricket Bat,3,482,1446,2022-01-30
+165,Customer_19,Lahore,Electronics,Headphones,3,211,633,2023-03-18
+166,Customer_22,Lahore,Beauty,Hair Dryer,5,369,1845,2022-07-04
+167,Customer_64,Peshawar,Electronics,Tablet,5,369,1845,2022-09-04
+168,Customer_59,Islamabad,Clothing,Jeans,4,346,1384,2022-09-18
+169,Customer_21,Karachi,Electronics,Tablet,3,366,1098,2023-07-14
+170,Customer_55,Islamabad,Sports,Tennis Racket,5,173,865,2023-10-17
+171,Customer_14,Lahore,Sports,Tennis Racket,2,216,432,2023-05-10
+172,Customer_38,Karachi,Sports,Tennis Racket,5,171,855,2023-12-18
+173,Customer_100,Karachi,Sports,Tennis Racket,1,309,309,2023-12-04
+174,Customer_78,Islamabad,Beauty,Hair Dryer,3,417,1251,2022-08-24
+175,Customer_97,Lahore,Clothing,Jeans,5,148,740,2023-11-26
+176,Customer_5,Peshawar,Electronics,Phone,3,423,1269,2023-03-28
+177,Customer_42,Faisalabad,Home,Fan,1,485,485,2022-10-30
+178,Customer_47,Peshawar,Clothing,Jeans,2,422,844,2023-07-07
+179,Customer_38,Islamabad,Beauty,Lipstick,2,151,302,2023-05-09
+180,Customer_87,Faisalabad,Electronics,Tablet,1,92,92,2022-08-20
+181,Customer_2,Islamabad,Beauty,Lipstick,1,424,424,2023-02-09
+182,Customer_96,Islamabad,Beauty,Perfume,4,208,832,2023-11-20
+183,Customer_30,Faisalabad,Beauty,Hair Dryer,3,75,225,2023-11-23
+184,Customer_9,Faisalabad,Electronics,Headphones,5,133,665,2023-10-26
+185,Customer_5,Islamabad,Home,Lamp,1,91,91,2022-02-16
+186,Customer_18,Faisalabad,Sports,Football,1,140,140,2023-07-05
+187,Customer_96,Lahore,Sports,Tennis Racket,5,234,1170,2023-08-25
+188,Customer_36,Karachi,Sports,Football,4,335,1340,2023-02-22
+189,Customer_47,Karachi,Home,Fan,4,247,988,2022-08-30
+190,Customer_25,Karachi,Home,Chair,1,223,223,2022-10-10
+191,Customer_77,Karachi,Sports,Football,2,348,696,2023-10-17
+192,Customer_27,Karachi,Electronics,Headphones,2,84,168,2023-08-02
+193,Customer_43,Lahore,Beauty,Face Wash,5,130,650,2022-08-27
+194,Customer_17,Peshawar,Beauty,Perfume,3,459,1377,2022-05-29
+195,Customer_17,Karachi,Home,Fan,1,358,358,2022-01-27
+196,Customer_23,Islamabad,Home,Fan,5,185,925,2022-01-17
+197,Customer_96,Karachi,Electronics,Laptop,4,289,1156,2022-04-27
+198,Customer_14,Faisalabad,Sports,Gym Gloves,3,282,846,2023-08-31
+199,Customer_67,Islamabad,Beauty,Face Wash,5,42,210,2023-11-06
+200,Customer_55,Karachi,Sports,Football,1,265,265,2023-02-16
+201,Customer_42,Peshawar,Sports,Gym Gloves,1,480,480,2022-03-24
+202,Customer_82,Peshawar,Clothing,Shirt,2,160,320,2023-10-02
+203,Customer_38,Faisalabad,Beauty,Lipstick,4,325,1300,2023-06-28
+204,Customer_15,Peshawar,Beauty,Hair Dryer,1,426,426,2023-12-20
+205,Customer_53,Islamabad,Clothing,Shoes,4,474,1896,2022-08-22
+206,Customer_41,Faisalabad,Sports,Gym Gloves,4,393,1572,2022-04-08
+207,Customer_61,Karachi,Home,Chair,3,98,294,2023-12-05
+208,Customer_96,Islamabad,Electronics,Phone,1,241,241,2022-04-09
+209,Customer_43,Karachi,Clothing,Shirt,5,307,1535,2023-07-30
+210,Customer_37,Peshawar,Sports,Tennis Racket,4,464,1856,2022-02-22
+211,Customer_28,Lahore,Home,Chair,1,315,315,2023-06-04
+212,Customer_48,Karachi,Sports,Cricket Bat,1,199,199,2023-07-24
+213,Customer_99,Peshawar,Home,Fan,4,452,1808,2023-07-29
+214,Customer_89,Islamabad,Beauty,Perfume,5,495,2475,2023-11-05
+215,Customer_44,Islamabad,Electronics,Laptop,3,379,1137,2022-11-13
+216,Customer_52,Karachi,Electronics,Laptop,2,309,618,2023-11-05
+217,Customer_28,Faisalabad,Clothing,Shirt,1,402,402,2023-06-28
+218,Customer_40,Islamabad,Sports,Gym Gloves,3,100,300,2023-01-14
+219,Customer_97,Peshawar,Beauty,Perfume,1,99,99,2022-06-11
+220,Customer_55,Faisalabad,Electronics,Phone,3,246,738,2023-11-09
+221,Customer_97,Peshawar,Beauty,Hair Dryer,4,159,636,2022-08-09
+222,Customer_87,Peshawar,Electronics,Headphones,4,76,304,2022-10-18
+223,Customer_77,Karachi,Sports,Tennis Racket,1,132,132,2023-02-09
+224,Customer_98,Islamabad,Electronics,Laptop,3,128,384,2022-05-21
+225,Customer_96,Faisalabad,Home,Chair,1,23,23,2023-05-25
+226,Customer_30,Peshawar,Clothing,Jeans,4,292,1168,2023-12-22
+227,Customer_56,Karachi,Beauty,Lipstick,1,223,223,2022-02-13
+228,Customer_74,Faisalabad,Sports,Football,3,314,942,2023-03-16
+229,Customer_42,Lahore,Sports,Tennis Racket,1,227,227,2022-01-22
+230,Customer_14,Lahore,Beauty,Hair Dryer,3,65,195,2023-03-24
+231,Customer_40,Islamabad,Sports,Gym Gloves,5,60,300,2023-02-10
+232,Customer_82,Karachi,Clothing,Jacket,2,59,118,2023-06-07
+233,Customer_19,Lahore,Beauty,Face Wash,3,199,597,2023-10-23
+234,Customer_78,Lahore,Electronics,Laptop,3,121,363,2022-06-27
+235,Customer_98,Peshawar,Electronics,Laptop,4,257,1028,2023-08-01
+236,Customer_9,Faisalabad,Sports,Tennis Racket,3,97,291,2023-03-27
+237,Customer_46,Peshawar,Sports,Tennis Racket,3,322,966,2022-02-27
+238,Customer_8,Islamabad,Electronics,Headphones,4,251,1004,2022-02-08
+239,Customer_65,Faisalabad,Home,Mixer,1,334,334,2023-09-01
+240,Customer_84,Lahore,Sports,Football,4,485,1940,2023-08-09
+241,Customer_58,Karachi,Home,Lamp,5,97,485,2022-03-05
+242,Customer_6,Lahore,Home,Mixer,5,350,1750,2022-06-26
+243,Customer_21,Islamabad,Sports,Gym Gloves,5,287,1435,2023-09-17
+244,Customer_87,Peshawar,Home,Chair,4,229,916,2022-12-13
+245,Customer_72,Faisalabad,Electronics,Headphones,1,188,188,2022-04-07
+246,Customer_43,Karachi,Home,Chair,5,467,2335,2022-06-03
+247,Customer_90,Faisalabad,Beauty,Face Wash,3,178,534,2023-11-03
+248,Customer_83,Islamabad,Clothing,Shirt,3,306,918,2023-01-21
+249,Customer_3,Islamabad,Clothing,Shirt,4,280,1120,2023-01-06
+250,Customer_25,Lahore,Home,Fan,2,194,388,2023-05-13
+251,Customer_65,Peshawar,Clothing,Jeans,1,171,171,2022-04-14
+252,Customer_17,Peshawar,Beauty,Perfume,3,468,1404,2023-09-25
+253,Customer_99,Peshawar,Sports,Cricket Bat,2,112,224,2023-12-11
+254,Customer_87,Lahore,Clothing,Shoes,1,230,230,2023-01-09
+255,Customer_31,Islamabad,Sports,Tennis Racket,4,139,556,2023-07-01
+256,Customer_57,Faisalabad,Sports,Cricket Bat,3,367,1101,2023-08-08
+257,Customer_21,Lahore,Home,Lamp,5,290,1450,2023-03-05
+258,Customer_62,Islamabad,Beauty,Face Wash,3,46,138,2023-10-19
+259,Customer_37,Karachi,Beauty,Perfume,5,455,2275,2022-05-08
+260,Customer_19,Faisalabad,Clothing,Jacket,4,483,1932,2023-06-10
+261,Customer_4,Faisalabad,Electronics,Laptop,4,472,1888,2022-12-24
+262,Customer_50,Karachi,Electronics,Tablet,5,211,1055,2022-08-30
+263,Customer_92,Islamabad,Home,Fan,1,183,183,2022-04-12
+264,Customer_90,Lahore,Clothing,Jeans,1,166,166,2023-04-29
+265,Customer_3,Islamabad,Sports,Gym Gloves,5,22,110,2022-03-23
+266,Customer_68,Faisalabad,Clothing,Jeans,5,392,1960,2023-09-16
+267,Customer_7,Lahore,Electronics,Headphones,2,174,348,2022-05-05
+268,Customer_77,Peshawar,Sports,Gym Gloves,1,76,76,2023-05-27
+269,Customer_1,Peshawar,Electronics,Laptop,2,169,338,2023-03-16
+270,Customer_86,Karachi,Home,Fan,5,233,1165,2022-07-11
+271,Customer_65,Peshawar,Beauty,Lipstick,1,289,289,2023-07-12
+272,Customer_6,Faisalabad,Beauty,Perfume,4,467,1868,2023-04-27
+273,Customer_45,Lahore,Home,Chair,1,202,202,2022-03-11
+274,Customer_70,Islamabad,Electronics,Headphones,2,42,84,2022-12-27
+275,Customer_18,Karachi,Clothing,Shoes,4,343,1372,2022-07-06
+276,Customer_26,Karachi,Sports,Football,3,123,369,2022-02-14
+277,Customer_61,Islamabad,Home,Chair,5,223,1115,2023-07-11
+278,Customer_84,Islamabad,Electronics,Laptop,3,202,606,2022-02-18
+279,Customer_96,Faisalabad,Home,Mixer,3,243,729,2023-02-14
+280,Customer_64,Islamabad,Sports,Tennis Racket,2,274,548,2023-12-10
+281,Customer_11,Faisalabad,Beauty,Lipstick,1,392,392,2023-03-11
+282,Customer_14,Karachi,Beauty,Face Wash,5,170,850,2022-11-25
+283,Customer_92,Faisalabad,Home,Chair,3,248,744,2023-09-10
+284,Customer_94,Islamabad,Clothing,Shoes,3,248,744,2022-02-13
+285,Customer_10,Faisalabad,Beauty,Hair Dryer,3,347,1041,2022-02-28
+286,Customer_87,Faisalabad,Home,Fan,1,93,93,2023-09-15
+287,Customer_47,Islamabad,Electronics,Laptop,1,140,140,2023-10-23
+288,Customer_58,Islamabad,Sports,Football,5,98,490,2023-11-27
+289,Customer_68,Islamabad,Home,Lamp,1,313,313,2022-05-21
+290,Customer_4,Lahore,Sports,Tennis Racket,3,147,441,2022-04-27
+291,Customer_100,Islamabad,Sports,Gym Gloves,5,80,400,2022-09-26
+292,Customer_63,Lahore,Sports,Cricket Bat,5,166,830,2023-12-12
+293,Customer_92,Faisalabad,Electronics,Laptop,1,251,251,2022-06-26
+294,Customer_71,Peshawar,Electronics,Headphones,3,383,1149,2022-03-08
+295,Customer_90,Lahore,Home,Chair,2,384,768,2023-12-28
+296,Customer_31,Faisalabad,Home,Fan,1,122,122,2022-05-23
+297,Customer_60,Peshawar,Electronics,Headphones,5,313,1565,2023-01-13
+298,Customer_92,Faisalabad,Clothing,Shirt,1,178,178,2023-02-12
+299,Customer_10,Lahore,Beauty,Hair Dryer,4,441,1764,2023-08-12
+300,Customer_67,Islamabad,Home,Mixer,4,258,1032,2023-11-28
+301,Customer_8,Karachi,Clothing,Jeans,2,241,482,2023-05-30
+302,Customer_42,Lahore,Beauty,Face Wash,3,104,312,2022-06-15
+303,Customer_82,Peshawar,Home,Chair,1,148,148,2022-07-21
+304,Customer_12,Peshawar,Home,Fan,3,334,1002,2023-07-01
+305,Customer_93,Peshawar,Clothing,Jeans,2,357,714,2023-10-02
+306,Customer_83,Peshawar,Home,Mixer,1,61,61,2022-02-16
+307,Customer_82,Karachi,Home,Fan,5,233,1165,2023-09-25
+308,Customer_88,Faisalabad,Sports,Tennis Racket,3,267,801,2022-09-08
+309,Customer_21,Faisalabad,Home,Lamp,1,372,372,2022-03-03
+310,Customer_78,Lahore,Sports,Gym Gloves,4,124,496,2022-12-15
+311,Customer_98,Islamabad,Home,Chair,3,224,672,2022-05-14
+312,Customer_16,Islamabad,Beauty,Perfume,3,143,429,2023-04-23
+313,Customer_38,Faisalabad,Sports,Cricket Bat,2,69,138,2022-02-21
+314,Customer_42,Peshawar,Beauty,Hair Dryer,2,463,926,2022-06-13
+315,Customer_60,Faisalabad,Home,Fan,2,275,550,2023-06-12
+316,Customer_65,Faisalabad,Home,Lamp,1,66,66,2023-02-07
+317,Customer_7,Islamabad,Clothing,Jeans,5,200,1000,2022-02-19
+318,Customer_14,Faisalabad,Sports,Gym Gloves,3,294,882,2022-01-09
+319,Customer_47,Karachi,Clothing,Jacket,3,411,1233,2023-02-17
+320,Customer_47,Peshawar,Sports,Football,5,307,1535,2022-07-19
+321,Customer_98,Peshawar,Home,Mixer,4,278,1112,2023-04-07
+322,Customer_48,Islamabad,Home,Mixer,2,69,138,2023-02-08
+323,Customer_66,Faisalabad,Beauty,Lipstick,2,121,242,2023-09-09
+324,Customer_92,Islamabad,Beauty,Perfume,1,39,39,2022-05-21
+325,Customer_18,Islamabad,Sports,Gym Gloves,2,330,660,2023-06-12
+326,Customer_95,Islamabad,Beauty,Lipstick,2,221,442,2023-09-24
+327,Customer_69,Faisalabad,Beauty,Lipstick,5,444,2220,2023-06-06
+328,Customer_48,Islamabad,Beauty,Lipstick,4,437,1748,2022-01-18
+329,Customer_81,Karachi,Electronics,Tablet,5,177,885,2023-12-06
+330,Customer_74,Lahore,Beauty,Hair Dryer,3,355,1065,2023-08-16
+331,Customer_93,Peshawar,Electronics,Tablet,2,288,576,2023-10-07
+332,Customer_90,Karachi,Sports,Cricket Bat,2,36,72,2023-08-10
+333,Customer_20,Faisalabad,Clothing,Shirt,4,180,720,2023-03-05
+334,Customer_61,Karachi,Clothing,Shoes,5,416,2080,2023-09-19
+335,Customer_62,Peshawar,Clothing,Jeans,5,186,930,2023-11-10
+336,Customer_44,Peshawar,Sports,Tennis Racket,2,255,510,2023-06-30
+337,Customer_32,Islamabad,Home,Chair,5,267,1335,2022-07-16
+338,Customer_91,Lahore,Beauty,Lipstick,2,172,344,2022-10-23
+339,Customer_93,Islamabad,Sports,Tennis Racket,4,198,792,2023-07-28
+340,Customer_49,Faisalabad,Home,Mixer,5,366,1830,2023-07-11
+341,Customer_92,Karachi,Home,Fan,3,41,123,2022-10-22
+342,Customer_28,Lahore,Home,Lamp,3,402,1206,2023-05-06
+343,Customer_18,Karachi,Beauty,Lipstick,5,376,1880,2022-10-06
+344,Customer_68,Lahore,Beauty,Face Wash,2,45,90,2023-11-17
+345,Customer_92,Faisalabad,Clothing,Shirt,1,231,231,2022-12-05
+346,Customer_53,Faisalabad,Electronics,Laptop,1,301,301,2022-06-11
+347,Customer_83,Karachi,Sports,Cricket Bat,3,184,552,2022-10-20
+348,Customer_23,Faisalabad,Electronics,Laptop,5,398,1990,2022-02-08
+349,Customer_24,Islamabad,Clothing,Shirt,4,423,1692,2023-05-23
+350,Customer_14,Islamabad,Electronics,Phone,3,310,930,2023-09-10
+351,Customer_18,Peshawar,Home,Lamp,5,288,1440,2023-05-21
+352,Customer_43,Lahore,Sports,Tennis Racket,2,434,868,2022-04-26
+353,Customer_38,Peshawar,Sports,Tennis Racket,2,27,54,2022-12-12
+354,Customer_52,Faisalabad,Clothing,Jeans,5,458,2290,2023-10-17
+355,Customer_13,Lahore,Beauty,Lipstick,1,225,225,2023-11-17
+356,Customer_1,Islamabad,Clothing,Shoes,3,499,1497,2022-09-12
+357,Customer_43,Islamabad,Sports,Cricket Bat,4,405,1620,2022-10-01
+358,Customer_89,Lahore,Beauty,Perfume,3,354,1062,2023-01-04
+359,Customer_52,Peshawar,Electronics,Phone,4,177,708,2022-06-13
+360,Customer_29,Lahore,Home,Mixer,3,208,624,2023-09-22
+361,Customer_48,Faisalabad,Clothing,Shoes,2,252,504,2023-09-13
+362,Customer_28,Lahore,Beauty,Hair Dryer,5,430,2150,2023-11-12
+363,Customer_91,Islamabad,Beauty,Perfume,5,248,1240,2023-06-25
+364,Customer_65,Lahore,Electronics,Phone,1,444,444,2023-07-15
+365,Customer_57,Karachi,Beauty,Face Wash,2,187,374,2023-06-17
+366,Customer_58,Karachi,Clothing,Shoes,1,480,480,2023-06-07
+367,Customer_73,Karachi,Sports,Cricket Bat,5,232,1160,2023-04-13
+368,Customer_51,Islamabad,Beauty,Hair Dryer,3,390,1170,2022-01-23
+369,Customer_55,Islamabad,Electronics,Laptop,5,57,285,2022-02-16
+370,Customer_5,Islamabad,Electronics,Phone,1,498,498,2023-04-29
+371,Customer_94,Faisalabad,Sports,Cricket Bat,2,412,824,2023-10-19
+372,Customer_49,Karachi,Home,Lamp,4,465,1860,2023-01-22
+373,Customer_69,Faisalabad,Beauty,Face Wash,3,80,240,2022-07-02
+374,Customer_97,Karachi,Beauty,Face Wash,2,447,894,2022-01-04
+375,Customer_49,Lahore,Home,Lamp,5,237,1185,2023-06-29
+376,Customer_25,Karachi,Clothing,Shoes,3,99,297,2022-10-10
+377,Customer_31,Lahore,Electronics,Tablet,5,412,2060,2022-01-17
+378,Customer_77,Karachi,Electronics,Phone,5,37,185,2023-04-03
+379,Customer_70,Lahore,Clothing,Shirt,4,244,976,2022-08-28
+380,Customer_94,Peshawar,Electronics,Laptop,5,168,840,2022-08-28
+381,Customer_85,Peshawar,Home,Chair,2,174,348,2022-05-27
+382,Customer_72,Peshawar,Clothing,Shoes,3,160,480,2022-03-04
+383,Customer_45,Faisalabad,Clothing,Shoes,5,273,1365,2022-02-18
+384,Customer_39,Faisalabad,Beauty,Lipstick,4,229,916,2022-06-02
+385,Customer_39,Lahore,Clothing,Shoes,2,454,908,2022-08-19
+386,Customer_72,Peshawar,Sports,Football,5,231,1155,2023-03-03
+387,Customer_43,Karachi,Clothing,Shoes,2,150,300,2022-07-28
+388,Customer_7,Islamabad,Sports,Tennis Racket,1,294,294,2022-07-15
+389,Customer_93,Peshawar,Sports,Football,1,116,116,2023-08-25
+390,Customer_39,Karachi,Clothing,Shoes,2,465,930,2022-12-07
+391,Customer_32,Peshawar,Clothing,Jeans,1,402,402,2023-05-06
+392,Customer_100,Islamabad,Clothing,Shoes,2,302,604,2022-11-26
+393,Customer_40,Islamabad,Sports,Gym Gloves,5,352,1760,2023-01-03
+394,Customer_98,Islamabad,Home,Lamp,4,70,280,2023-04-26
+395,Customer_73,Lahore,Clothing,Jacket,3,231,693,2022-02-16
+396,Customer_75,Faisalabad,Clothing,Shirt,3,303,909,2023-08-22
+397,Customer_49,Peshawar,Home,Fan,2,188,376,2022-08-24
+398,Customer_44,Islamabad,Clothing,Shoes,5,355,1775,2023-12-03
+399,Customer_22,Lahore,Sports,Gym Gloves,4,106,424,2022-12-27
+400,Customer_83,Karachi,Beauty,Hair Dryer,2,489,978,2023-07-10
+401,Customer_7,Karachi,Beauty,Perfume,1,438,438,2023-11-16
+402,Customer_20,Karachi,Sports,Cricket Bat,2,54,108,2023-12-26
+403,Customer_82,Peshawar,Clothing,Shoes,3,50,150,2023-09-25
+404,Customer_71,Faisalabad,Sports,Gym Gloves,1,23,23,2023-06-29
+405,Customer_69,Islamabad,Electronics,Phone,5,389,1945,2022-10-09
+406,Customer_68,Lahore,Electronics,Tablet,2,74,148,2022-04-09
+407,Customer_46,Islamabad,Clothing,Jeans,5,289,1445,2022-09-16
+408,Customer_73,Lahore,Sports,Football,3,227,681,2023-04-16
+409,Customer_98,Karachi,Clothing,Jacket,1,354,354,2023-10-28
+410,Customer_61,Karachi,Electronics,Tablet,4,213,852,2023-07-20
+411,Customer_83,Islamabad,Electronics,Laptop,1,275,275,2023-03-21
+412,Customer_30,Lahore,Beauty,Perfume,5,490,2450,2022-02-13
+413,Customer_88,Islamabad,Beauty,Hair Dryer,3,43,129,2022-03-18
+414,Customer_3,Lahore,Beauty,Perfume,2,495,990,2022-11-19
+415,Customer_39,Lahore,Beauty,Face Wash,4,495,1980,2022-03-20
+416,Customer_87,Peshawar,Beauty,Face Wash,5,447,2235,2023-02-03
+417,Customer_93,Karachi,Home,Lamp,2,424,848,2023-12-07
+418,Customer_30,Karachi,Beauty,Lipstick,1,70,70,2023-03-24
+419,Customer_35,Faisalabad,Home,Lamp,3,35,105,2023-10-12
+420,Customer_56,Lahore,Sports,Cricket Bat,3,303,909,2023-01-20
+421,Customer_38,Lahore,Beauty,Hair Dryer,1,415,415,2023-09-26
+422,Customer_92,Lahore,Electronics,Phone,3,98,294,2023-01-25
+423,Customer_1,Islamabad,Sports,Tennis Racket,3,74,222,2022-04-04
+424,Customer_12,Lahore,Sports,Tennis Racket,3,72,216,2022-05-16
+425,Customer_53,Karachi,Sports,Gym Gloves,5,304,1520,2023-06-09
+426,Customer_77,Peshawar,Electronics,Phone,3,303,909,2022-04-06
+427,Customer_50,Karachi,Home,Lamp,1,169,169,2023-02-28
+428,Customer_88,Faisalabad,Beauty,Face Wash,5,286,1430,2022-06-23
+429,Customer_64,Lahore,Clothing,Jeans,3,174,522,2022-10-02
+430,Customer_39,Faisalabad,Electronics,Laptop,4,161,644,2023-03-08
+431,Customer_64,Peshawar,Electronics,Headphones,3,146,438,2023-10-03
+432,Customer_39,Karachi,Beauty,Face Wash,4,74,296,2022-05-19
+433,Customer_57,Islamabad,Sports,Tennis Racket,5,214,1070,2022-12-04
+434,Customer_89,Lahore,Sports,Cricket Bat,3,184,552,2023-09-10
+435,Customer_38,Faisalabad,Sports,Tennis Racket,2,223,446,2022-11-23
+436,Customer_51,Islamabad,Beauty,Face Wash,3,212,636,2022-10-15
+437,Customer_88,Peshawar,Electronics,Laptop,5,299,1495,2022-07-04
+438,Customer_89,Karachi,Electronics,Tablet,2,244,488,2022-10-26
+439,Customer_31,Islamabad,Sports,Gym Gloves,2,344,688,2022-11-07
+440,Customer_77,Faisalabad,Clothing,Shoes,4,57,228,2023-04-05
+441,Customer_54,Peshawar,Beauty,Hair Dryer,5,279,1395,2023-12-10
+442,Customer_11,Karachi,Electronics,Headphones,5,324,1620,2023-10-16
+443,Customer_6,Peshawar,Clothing,Jacket,2,351,702,2023-09-20
+444,Customer_13,Islamabad,Sports,Tennis Racket,4,74,296,2022-01-11
+445,Customer_60,Peshawar,Clothing,Jeans,4,211,844,2023-02-05
+446,Customer_14,Islamabad,Beauty,Face Wash,3,32,96,2023-05-10
+447,Customer_45,Islamabad,Sports,Football,1,445,445,2022-05-26
+448,Customer_45,Faisalabad,Home,Lamp,2,286,572,2023-05-10
+449,Customer_39,Karachi,Electronics,Tablet,4,183,732,2022-03-10
+450,Customer_87,Lahore,Electronics,Phone,3,351,1053,2022-04-22
+451,Customer_72,Faisalabad,Clothing,Jeans,5,101,505,2022-12-05
+452,Customer_24,Faisalabad,Sports,Cricket Bat,4,342,1368,2022-07-08
+453,Customer_58,Peshawar,Sports,Football,5,472,2360,2022-07-22
+454,Customer_27,Islamabad,Sports,Gym Gloves,1,380,380,2022-08-08
+455,Customer_42,Lahore,Electronics,Phone,5,115,575,2023-01-10
+456,Customer_68,Islamabad,Sports,Football,3,363,1089,2023-05-17
+457,Customer_15,Islamabad,Beauty,Hair Dryer,5,220,1100,2023-08-25
+458,Customer_91,Islamabad,Home,Lamp,5,108,540,2023-11-21
+459,Customer_31,Islamabad,Beauty,Perfume,2,180,360,2022-05-01
+460,Customer_66,Faisalabad,Electronics,Laptop,3,375,1125,2022-05-25
+461,Customer_24,Faisalabad,Sports,Cricket Bat,5,216,1080,2023-03-10
+462,Customer_37,Lahore,Beauty,Face Wash,5,105,525,2023-05-17
+463,Customer_46,Karachi,Clothing,Jacket,4,337,1348,2022-02-24
+464,Customer_72,Peshawar,Sports,Cricket Bat,2,437,874,2023-01-29
+465,Customer_57,Faisalabad,Sports,Gym Gloves,4,232,928,2023-12-29
+466,Customer_38,Karachi,Clothing,Shirt,5,35,175,2022-08-14
+467,Customer_100,Faisalabad,Home,Fan,5,167,835,2022-06-22
+468,Customer_74,Karachi,Beauty,Hair Dryer,5,281,1405,2022-04-26
+469,Customer_98,Faisalabad,Home,Chair,5,441,2205,2022-02-12
+470,Customer_97,Lahore,Beauty,Face Wash,4,72,288,2023-11-01
+471,Customer_12,Faisalabad,Home,Mixer,4,154,616,2022-12-23
+472,Customer_89,Islamabad,Electronics,Laptop,2,435,870,2023-08-26
+473,Customer_27,Lahore,Beauty,Hair Dryer,2,335,670,2022-05-23
+474,Customer_69,Lahore,Electronics,Headphones,5,163,815,2023-09-04
+475,Customer_66,Karachi,Home,Chair,3,313,939,2022-10-01
+476,Customer_17,Lahore,Clothing,Shoes,1,161,161,2023-11-03
+477,Customer_98,Faisalabad,Clothing,Jeans,3,444,1332,2022-09-11
+478,Customer_81,Faisalabad,Sports,Cricket Bat,5,343,1715,2022-10-03
+479,Customer_52,Peshawar,Sports,Gym Gloves,1,344,344,2022-04-06
+480,Customer_75,Karachi,Home,Chair,4,269,1076,2022-12-02
+481,Customer_69,Faisalabad,Electronics,Tablet,3,455,1365,2022-03-06
+482,Customer_42,Islamabad,Clothing,Shoes,2,273,546,2022-10-02
+483,Customer_44,Karachi,Home,Fan,5,456,2280,2023-05-12
+484,Customer_21,Faisalabad,Electronics,Phone,4,28,112,2022-05-08
+485,Customer_17,Islamabad,Sports,Football,4,123,492,2023-12-07
+486,Customer_33,Karachi,Clothing,Jacket,1,355,355,2023-01-05
+487,Customer_40,Lahore,Home,Fan,1,222,222,2023-10-03
+488,Customer_62,Karachi,Sports,Football,1,20,20,2022-08-07
+489,Customer_2,Karachi,Clothing,Jeans,5,368,1840,2023-04-01
+490,Customer_62,Karachi,Home,Mixer,4,375,1500,2022-05-16
+491,Customer_14,Islamabad,Clothing,Shoes,1,394,394,2022-04-15
+492,Customer_83,Lahore,Home,Chair,2,215,430,2022-05-17
+493,Customer_57,Islamabad,Electronics,Phone,5,352,1760,2022-06-18
+494,Customer_57,Lahore,Clothing,Jeans,4,335,1340,2023-12-05
+495,Customer_76,Faisalabad,Electronics,Phone,2,405,810,2022-05-07
+496,Customer_32,Islamabad,Home,Lamp,3,425,1275,2022-05-24
+497,Customer_93,Peshawar,Electronics,Laptop,5,327,1635,2023-09-07
+498,Customer_78,Peshawar,Home,Mixer,3,125,375,2023-06-15
+499,Customer_31,Faisalabad,Clothing,Shoes,3,350,1050,2022-02-25
+500,Customer_77,Karachi,Sports,Football,2,275,550,2023-10-16
